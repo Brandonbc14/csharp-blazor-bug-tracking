@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BugTrackerUI
 {
-    public class Bug
+    public class Bug 
     {
         public int Id { get; set; }
 
